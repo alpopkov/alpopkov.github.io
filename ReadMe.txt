@@ -1,28 +1,5 @@
-Free Bootstrap Resume/CV Template for developers
-
-Theme name:
-=======================================================================
-Orbit
-
-Theme version:
-=======================================================================
-v1.0
-
-Release Date:
-=======================================================================
-29 Jan 2016
-
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
-
-Contact:
-=======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
-
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+Hello! I am Alexey Popkov. I am a front-end developer. 
+I like to create beautiful UI for useful and interesting web projects. 
+Now I am looking for a new project in ambitious company and friendly team. 
+I love to learn new things and improve my skills. 
+On this page you can you can get acquainted with my projects and download my CV
